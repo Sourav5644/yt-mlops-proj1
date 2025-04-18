@@ -85,4 +85,9 @@
       * Now inside "src.aws_storage" code needs to be added for the configurations needed to pull 
         and push model from AWS S3 bucket. 
       * Inside "entity" dir we will have an "s3_estimator.py" file containing all the func to pull/push
-        data from s3 bucket.         
+        data from s3 bucket. 
+
+24. Now we will start our work on "Model Evaluation" and "Model Pusher" component.
+
+25. Create the code structure of "Prediction Pipeline" and setup your app.py
+26. Add "static" and "template" dir to the project.
